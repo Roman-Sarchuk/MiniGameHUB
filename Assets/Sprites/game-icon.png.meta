@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: df4752b41c07f8e44937d05c4fd457cc
+guid: b8440005afc60bc47a10deb8d3de1bb9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1001410178866777137
-    second: win-neon-sign_0
+      213: -3202127723939508316
+    second: game-icon_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: win-neon-sign_0
+      name: game-icon_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 626
-        height: 626
+        width: 50
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 13c80d18049b5ed00800000000000000
-      internalID: 1001410178866777137
+      spriteID: 4afc729fcc1cf83d0800000000000000
+      internalID: -3202127723939508316
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      win-neon-sign_0: 1001410178866777137
+      game-icon_0: -3202127723939508316
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

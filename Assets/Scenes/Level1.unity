@@ -3427,7 +3427,7 @@ MonoBehaviour:
   _col: 10
   _row: 10
   _minOnCellCount: 1
-  _maxOnCellCount: 99
+  _maxOnCellCount: 24
   _isAutoCalcOnCell: 1
   _offColor: {r: 0.23137255, g: 0.23137255, b: 0.23137255, a: 1}
   _onColor: {r: 0.19607845, g: 0.6627451, b: 0.30980393, a: 1}
